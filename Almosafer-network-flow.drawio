@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T10:48:52.852Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="gHRhnpAbzPkO73r1PTyI" version="21.6.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-17T10:49:56.462Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="EMSPZ_1INhe6D6T3DTsg" version="21.6.2" type="github">
   <diagram name="Page-1" id="n59CUuz79ZGjcLygdnoj">
     <mxGraphModel dx="1536" dy="874" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,8 +37,8 @@
         <mxCell id="ws03v77B-qWGGQhF00HD-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="555" width="600" height="355" as="geometry" />
         </mxCell>
-        <mxCell id="ws03v77B-qWGGQhF00HD-12" value="Internal Network&lt;br&gt;Office n/w only" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="247" y="558" width="130" height="30" as="geometry" />
+        <mxCell id="ws03v77B-qWGGQhF00HD-12" value="Internal Network&lt;br&gt;&lt;br&gt;Accessible from&lt;br&gt;&amp;nbsp;Office n/w only" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="570" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ws03v77B-qWGGQhF00HD-13" value="Amazon EKS" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.eks;" vertex="1" parent="1">
           <mxGeometry x="400" y="600" width="80" height="100" as="geometry" />
